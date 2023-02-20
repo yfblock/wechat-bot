@@ -1,0 +1,1 @@
+export const ReplyCommand = '回复';
